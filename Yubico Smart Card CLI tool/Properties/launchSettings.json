@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "YubicoSmartCardCLI": {
+      "commandName": "Project",
+      "commandLineArgs": "change-management-key -r"
+    }
+  }
+}
